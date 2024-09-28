@@ -1,6 +1,6 @@
 import torch
 import sys
-sys.path.append(r'C:\Users\Administrator\Desktop\code\Unity_Brain\code\module')
+sys.path.append(r'C:\Users\Administrator\Desktop\code\Unity_Brain\MC_PINN\module')
 from Fitting import *
 import time
 
